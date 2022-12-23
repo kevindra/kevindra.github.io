@@ -25,12 +25,13 @@ description: >- # this means to ignore newlines until "baseurl:"
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 domain: kevindra.github.io # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
-baseurl: /kevindra.github.io/ # the subpath of your site, e.g. /blog
-url: https://kevindra.github.io # the base hostname & protocol for your site, e.g. http://example.com
+# baseurl: /kevindra.github.io/ # the subpath of your site, e.g. /blog
+# url: https://kevindra.github.io # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username: jekyll
 
 # Build settings
+markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
