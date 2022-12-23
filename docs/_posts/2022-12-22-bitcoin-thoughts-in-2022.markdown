@@ -1,3 +1,10 @@
+---
+layout: post
+title: "Bitcoin thoughts in 2022"
+date: 2022-12-22 22:10:00 -0800
+categories: crypto
+---
+
 [Bitcoin](https://en.wikipedia.org/wiki/Bitcoin) has now existed for over a decade. As it gained momentum in the world, it also developed many opinions with extremes from "Bitcoin is a Ponzi scheme" all the way to "Bitcoin is the only thing we need". I have been involved in Bitcoin and cryptocurrencies in general since 2015-16, and have followed the journey somewhat closely. Overtime I also developed my own opinions and I did so by seeking diverse perspectives from all around the internet, books, interviews etc. Overall my high level opinion is that Bitcoin is solving one of the most difficult problems that hasn't never been solved before i.e. trustless transactions (yes I meant Bitcoin, not just Blockchain, more on this later). Having said that, the path to reaching its goal does not come risk free. In this post, I would like to share why I believe in Bitcoin and why I don't.
 
 ## Control

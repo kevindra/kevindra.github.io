@@ -21,4 +21,4 @@ Despite its potential, Bitcoin also has its drawbacks. One of the main risks is 
 
 Another risk is the lack of regulation, which can make it difficult for individuals and businesses to know how to properly handle Bitcoin. This lack of clarity can lead to misunderstandings and legal issues.
 
-In conclusion, while I believe in the potential of Bitcoin to solve the problem of trustless transactions, it is not without its risks. The decentralization and immutability of the network make it a valuable asset,
+In conclusion, while I believe in the potential of Bitcoin to solve the problem of trustless transactions, it is not without its risks. The decentralization and immutability of the network make it a valuable asset, but the possibility of a 51% attack and the lack of regulation are concerns that must be taken into account.
