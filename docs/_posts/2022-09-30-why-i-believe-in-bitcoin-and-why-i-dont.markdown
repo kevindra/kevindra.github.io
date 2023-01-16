@@ -50,7 +50,7 @@ Even though there is no single entity that owns the Bitcoin network, governments
 
 As we know that other U.S. Dollar is the [world's dominant reserve currency](https://crsreports.congress.gov/product/pdf/IF/IF11707). A reserve currency is a currency held by central banks in significant quantities, used to conduct international trade and financial transactions, eliminating the costs of settling transactions involving different currencies. This is what gives U.S. dollar and U.S. power, because they can print more money and spend due to high dollar international demand. More recently (2022), Federal Reserve has been tightening the money supply to overcome inflation. Which directly explodes the cost of international trades for non U.S. countries, as well as the dollar denominated debt they have. Because of this, [many countries have now started to face tough times](https://www.nytimes.com/2022/09/26/business/economy/us-dollar-global-impact.html).‌‌
 
-![Weakening Currencies](../assets/images/weakening-currencies.png)
+<img src="/assets/images/weakening-currencies.png" alt="Weakening Currencies" />
 
 Hence, I believe the more world sees U.S. Dollar as risk, the more they would want to decouple from it. However, they will still incur the high settlement fees during trades. I believe, this may trigger de-globalization in the short term, until countries realize that we still need a reserve currency, and since they don't trust other countries' currencies, Bitcoin will stand as the only shiny option. Well, gold may be the other one, except, the velocity will suffer.
 
