@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Bitcoin thoughts in 2022"
+title: "Why I believe in Bitcoin and why I don't"
 date: 2022-12-22 22:10:00 -0800
 categories: crypto
 ---
@@ -20,7 +20,7 @@ Now-a-days we use [FIAT money](https://en.wikipedia.org/wiki/Fiat_money) to tran
 
 Bitcoin is backed by a network that is the **most decentralized**, and hence **immutable**. There is no other crypto currency out there that has the same hash rate as Bitcoin. Hash rate means how much computing power is backing the network, hence, helping the network get decentralized. Below, we see how Bitcoin's hash rate has grown over time.
 
-![Bitcoin Hash Rate](../assets/images/bitcoin-hash-rate.png)
+![Bitcoin Hash Rate](/assets/images/bitcoin-hash-rate.png)
 
 In addition, Bitcoin is validated in real-time by these nodes in the network, hence, quite impossible to debase a Bitcoin. Yes, Bitcoin can take more time to be validated and is not helpful for instant transactions. To me, these are higher order problems and can be solved by implementing another layer for faster transactions. Banks do this all the time by settling transactions slowly and stock market has market makers as liquidity providers for the same reason too. One thing that community often misses is that with high degree of decentralization comes with slow transaction speed. In physical world, same is true with Gold, in order to validate that gold is pure, you will have to spend time. Same is true with Bitcoin, except the trustless factor is much higher than Gold validators. Over the last few years, people have built many crypto currencies that promise speed (such as Bitcoin Cash), to me they reek of human greed, pump and dump kind of schemes. They lack the decentralization, hence, not really solving the original problem of trustless transactions.
 
